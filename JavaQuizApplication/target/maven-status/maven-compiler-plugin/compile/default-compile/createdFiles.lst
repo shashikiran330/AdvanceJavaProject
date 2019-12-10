@@ -1,0 +1,5 @@
+fr/epita/javaquiz/model/Questionaire.class
+fr/epita/javaquiz/model/Choices.class
+fr/epita/javaquiz/controller/JavaQuizController.class
+fr/epita/javaquiz/model/Questions.class
+fr/epita/javaquiz/dao/JavaQuizDao.class

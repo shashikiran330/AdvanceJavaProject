@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<questions> 
+  
+   <question>
+    <quizquestion>Which one of these lists contains only Java programming language keywords?</quizquestion>
+    <answer1>class, if, void, long, Int, continue.</answer1>
+    <answer2>goto, instanceof, native, finally, default, throws.</answer2>
+    <answer3>ry, virtual, throw, final, volatile, transient.</answer3>
+    <answer4>None of the above.</answer4>
+    <correct>goto, instanceof, native, finally, default, throws.</correct>
+  </question>
+  
+   <question>
+    <quizquestion>Which is a reserved word in the Java programming language?</quizquestion>
+    <answer1>method.</answer1>
+    <answer2>native.</answer2>
+    <answer3>subclasses.</answer3>
+    <answer4>array.</answer4>
+    <correct>native.</correct>
+  </question>
+   
+    <question>
+    <quizquestion>You want subclasses in any package to have access to members of a superclass. Which is the most restrictive access that accomplishes this objective?</quizquestion>
+    <answer1>public.</answer1>
+    <answer2>private.</answer2>
+    <answer3>protected.</answer3>
+    <answer4>transient.</answer4>
+    <correct>protected.</correct>
+  </question>
+  
+  <question>
+    <quizquestion>Which of the following would compile without error?</quizquestion>
+    <answer1>int a = Math.abs(-5);.</answer1>
+    <answer2>int b = Math.abs(5.0);.</answer2>
+    <answer3>int c = Math.abs(5.5F);.</answer3>
+    <answer4>int d = Math.abs(5L);.</answer4>
+    <correct>int a = Math.abs(-5);.</correct>
+  </question>
+  
+   <question>
+    <quizquestion>Which is a valid keyword in java?</quizquestion>
+    <answer1>interface.</answer1>
+    <answer2>string.</answer2>
+    <answer3>float.</answer3>
+    <answer4>unsigned.</answer4>
+    <correct>interface.</correct>
+  </question>
+   
+  <question>
+    <quizquestion>which operator is considered to be with highest precedence?</quizquestion>
+    <answer1>() , []</answer1>
+    <answer2> =</answer2>
+    <answer3>?:</answer3>
+    <answer4>%</answer4>
+    <correct>() , []</correct>
+  </question>
+
+  <question>
+    <quizquestion>Under what conditions is an object's finalize() method invoked by the garbage collector?</quizquestion>
+    <answer1>When it detects that the object has become unreachable.</answer1>
+    <answer2>As soon as object is set as null</answer2>
+    <answer3>At fixed interval m it checks for null value.</answer3>
+    <answer4>None of the above.</answer4>
+    <correct>When it detects that the object has become unreachable.</correct>
+  </question>
+
+  <question>
+    <quizquestion>Static binding uses which information for binding?</quizquestion>
+    <answer1>type.</answer1>
+    <answer2>object.</answer2>
+    <answer3>Both of the above.</answer3>
+    <answer4>None of the above.</answer4>
+    <correct>None of the above.</correct>
+  </question>
+  
+  
+</questions>
