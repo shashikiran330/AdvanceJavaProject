@@ -10,3 +10,5 @@ Begin the Java Test after login which is redirected to the below URL.
 http://localhost:8080/JavaQuizApplication/javatest.html
 
 Click Submit Button to view the result.
+
+User guide is available in the doc folder of the Project.
