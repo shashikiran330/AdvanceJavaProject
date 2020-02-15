@@ -9,6 +9,12 @@
   
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	  
+  <sonar.projectKey>shashikiran330_AdvanceJavaProject</sonar.projectKey>
+  <sonar.organization>shashikiran330</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>4e97d8b8772db6f6277956f3b385df1e96567a8f</sonar.login>
+
 	</properties>
 
 	<repositories>
